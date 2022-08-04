@@ -5,7 +5,7 @@ plugins:
   extractors:
   - name: tap-findmy
     namespace: tap_findmy
-    pip_url: -e /Users/daniel.palma/Personal/findmyairtag/tap-findmy
+    pip_url: -e ../tap-findmy
     capabilities:
     - state
     - catalog
